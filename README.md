@@ -1,13 +1,13 @@
 # Kiểm thử tự động thao tác với selenium
 - Thao tác với trang Canvas Phenikaa
--Install
+- Install
 ```
 pip install selenium
 ```
 ```
 pip install webdriver-manager
 ```
--Run
+- Run
 ```
 python3 autocanvas.py
 ```
