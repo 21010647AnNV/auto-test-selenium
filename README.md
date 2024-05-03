@@ -1,3 +1,3 @@
 # Kiểm thử tự động thao tác với selenium
-- Thao tác với trang Canvas Phenikaa
+- Thao tác với trang Canvas Phenikaa \n
 - ```pip install selenium```
